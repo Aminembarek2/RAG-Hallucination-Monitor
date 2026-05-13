@@ -1,6 +1,7 @@
 # 🧠 RAG-Hallucination-Monitor
 
 > Detects when an AI ignores your document and answers from memory instead.
+<img width="1385" height="868" alt="preview" src="https://github.com/user-attachments/assets/17ea5a38-fad4-4116-b93c-7a1fc95f1135" />
 
 ---
 
